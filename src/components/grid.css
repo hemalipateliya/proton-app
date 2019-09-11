@@ -1,0 +1,36 @@
+.card-title
+{
+    color:red;
+}
+
+.card-text
+{
+    color:black;
+}
+/*.card
+{
+    
+    width:20rem;
+    display:inline-blocks;
+    border:1px solid antiquewhite;
+}*/
+
+.card-img
+{
+    margin-right:10px;
+    width:20%
+}
+
+.card-container{
+         width:30%;
+         margin: 10px;
+}
+.card-columns{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.card-footer
+{
+    color:darkorange;
+}
